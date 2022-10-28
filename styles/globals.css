@@ -1,0 +1,27 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    max-width: 1980px;
+}
+@font-face {
+  font-family: Catamaran;
+  src: url('../public/fonts/catamaran/Catamaran-Regular.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Catamaran;
+  src: url('../public/fonts/catamaran/Catamaran-Bold.ttf');
+  font-weight: bold;
+  font-style:normal;
+}
+@font-face {
+  font-family: Poppins;
+  src: url('../public/fonts/poppins/Poppins-Regular.ttf');
+  font-weight:500;
+  font-style:normal;
+}
